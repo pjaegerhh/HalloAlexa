@@ -16,7 +16,7 @@ namespace HalloAlexa.Controllers
                     outputSpeech = new
                     {
                         type = "PlainText",
-                        text = "Hello World"
+                        text = "Hello World, das ist unser erster Alexa Skill"
                     },
                     card = new
                     {
