@@ -21,3 +21,10 @@ Now you might want to switch to the Alexa Dev console.
 https://developer.amazon.com/edw/home.html#/ Please make sure to logg in with your Amazon credentials. Best would be to use your normal credentials which you are also using for your Echo's
 
 Go to "Alexa Skill Kit" and "Add a new Skill"
+Now it's getting quite easy and straight forward. Best if you look into /jpgAssets and enter all the information needed for your new skill
+as soon as you're done go to your Echo Config on the web (https://alexa.amazon.de) and see if your newly developed skill shows up under "Your Skills"
+This should be the default if your Echo's are using the same Amazon ID which you have used for developping your Skill. Otherwise you need to use the "Beta Test" funtion.
+
+"Hi Alexa open Hello World" should now work
+
+Congrats ! You have developped your first Alexa Skill using C# and Azure !
